@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../coursera/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../others/KeYmaeraX-release" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wesen-misc/coursera/scala/capstone/observatory" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wesen-misc/coursera/scala/functional-design/streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
